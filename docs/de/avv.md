@@ -68,7 +68,7 @@ Der Auftragnehmer informiert den Auftraggeber unverzüglich, wenn er der Auffass
 
 Weisungsberechtigte Personen des Auftraggebers sind: *Name*
 
-Weisungsempfänger beim Auftragnehmer sind: *Name*
+Weisungsempfänger beim Auftragnehmer sind: *Simon Wörpel*
 
 Änderungen der weisungsberechtigten Person oder Weisungsempfänger sind
 unverzüglich mitzuteilen.

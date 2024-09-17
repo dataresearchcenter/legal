@@ -68,7 +68,7 @@ The Processor must immediately inform the Controller if it believes that an inst
 
 Authorized persons for instructions from the Controller are: *Name*
 
-Instruction recipients at the Processor are: *Name*
+Instruction recipients at the Processor are: *Simon Wörpel*
 
 Changes to the authorized persons or instruction recipients must be communicated without delay.
 
