@@ -5,6 +5,7 @@ nav:
   - english:
     - TOS: en/tos.md
     - SLA Managed Aleph: en/sla-aleph.md
+    - SLA Managed SSO: en/sla-sso.md
     - DPA: en/dpa.md
     - TOMS: en/toms.md
     - NDA: en/nda.md
@@ -12,6 +13,7 @@ nav:
   - deutsch:
     - AGB: de/agb.md
     - SLA Managed Aleph: de/sla-aleph.md
+    - SLA Managed SSO: de/sla-sso.md
     - AVV: de/avv.md
     - TOMS: de/toms.md
     - NDA: de/nda.md

@@ -4,7 +4,7 @@
 Here you will find:
 
 - Terms of service
-- Service level agreement (Aleph)
+- Service level agreements (Aleph, Keycloak)
 - GDPR required documents
 
 Please use the left sidebar to visit the specific document.
