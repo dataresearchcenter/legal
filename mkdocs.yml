@@ -1,5 +1,6 @@
 site_name: Legal documents
 site_url: https://investigativedata.io/legal
+repo_url: https://github.com/investigativedata/legal
 nav:
   - english:
     - TOS: en/tos.md
