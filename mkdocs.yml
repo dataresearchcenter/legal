@@ -1,0 +1,45 @@
+site_name: Legal documents
+site_url: https://investigativedata.io/legal
+nav:
+  - english:
+    - TOS: en/tos.md
+    - SLA Managed Aleph: en/sla-aleph.md
+    - DPA: en/dpa.md
+    - TOMS: en/toms.md
+    - NDA: en/nda.md
+    - Data privacy (website): en/dataprivacy-io.md
+  - deutsch:
+    - AGB: de/agb.md
+    - SLA Managed Aleph: de/sla-aleph.md
+    - AVV: de/avv.md
+    - TOMS: de/toms.md
+    - NDA: de/nda.md
+    - Datenschutz (website): de/datenschutzerklaerung-io.md
+  - Contact:
+    - › Email us: mailto:legal@investigativedata.org
+    - › investigativedata.io: https://investigativedata.io
+theme:
+  name: material
+  custom_dir: overrides
+  logo: https://cdn.investigativedata.org/style/logo_basic_dark.svg
+  favicon: https://cdn.investigativedata.org/style/favicon.svg
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    # - navigation.footer
+    - toc.follow
+extra_css:
+  - stylesheets/extra.css
+markdown_extensions:
+  - attr_list
+extra:
+  social:
+    - icon: material/web
+      link: https://investigativedata.io
+    - icon: material/mail
+      link: mailto:legal@investigativedata.org
+    - icon: material/github
+      link: https://github.com/investigativedata
+    - icon: material/linkedin
+      link: https://www.linkedin.com/company/investigativedata/
