@@ -36,6 +36,7 @@ IDIO Daten Import Export GmbH, Gottschedstr. 4, 13357 Berlin
 
 - Mitarbeitende der Kundin
 - Dritte Nutzer*innen der Services
+- Personen, die in verarbeiteten Daten erwähnt sind
 
 ## 4. Arten der personenbezogenen Daten
 
@@ -43,6 +44,7 @@ IDIO Daten Import Export GmbH, Gottschedstr. 4, 13357 Berlin
 - Kommunikationsdaten (Name, Email)
 - Benötigte Daten zur Authentisierung, Authentifizierung und Autorisierung (Name und/oder Login-Username)
 - Protokolldaten
+- personenbezogene Daten im Rahmen von journalistischer Tätigkeit des Auftraggebers
 
 ## 5. Ort der Verarbeitung
 
@@ -102,6 +104,8 @@ Der Auftragnehmer unterrichtet den Auftraggeber über Kontrollen der Aufsichtsbe
 Der Auftragnehmer verpflichtet sich, dem Auftraggeber auf Anforderung die zur Wahrung seiner Verpflichtung zur Auftragskontrolle erforderlichen Auskünfte zu geben und die entsprechenden Nachweise verfügbar zu machen. Er informiert den Auftraggeber unverzüglich über das Erlöschen oder den Widerruf von Zertifikaten oder von Maßnahmen gem. Art. 41 Abs. 4 DSGVO.
 
 Der Auftragnehmer teilt dem Auftraggeber Name und Kontaktdaten und Änderungen in der Person des betrieblichen Datenschutzbeauftragten oder, wenn keine Bestellpflicht besteht, den Namen und die Kontaktdaten der sonstigen zuständigen Stelle mit.
+
+Der Auftragnehmer verpflichtet sich, seinen Auftraggeber unverzüglich zu unterrichten, sobald eine Behörde, eine Staatsanwaltschaft oder Private auf die Daten des Auftraggebers zugreifen wollen. Er verpflichtet sich ferner, sich alle Anfragen in elektronischer Form geben zu lassen und diese an den Auftraggeber weiterzuleiten. Weiter verpflichtet er sich, soweit rechtlich möglich, Daten nur in Zusammenarbeit mit dem Auftraggeber herauszugeben. Der Auftragnehmer dokumentiert sämtliche Anfragen und Datenübermittlungen in diesem Zusammenhang und stellt diese Dokumentation dem Auftraggeber zur Verfügung. 
 
 ### 8.4. Mitwirkungs- und Unterstützungspflichten
 
@@ -203,4 +207,4 @@ Unterschrift/Stempel Auftraggeber Unterschrift/Stempel Auftragnehmer
 - [Technische und organisatorische Maßnahmen (TOMS)](./toms.md)
 - [Liste der Unterauftragnehmer](./unterauftragnehmer.md)
 
-> Version 1.0 | 17.09.2024 | [legal@investigativedata.org](mailto:legal@investigativedata.org)
+> Version 1.1 | 07.11.2024 | [legal@investigativedata.org](mailto:legal@investigativedata.org)

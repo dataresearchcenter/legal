@@ -35,6 +35,7 @@ IDIO Daten Import Export GmbH, Gottschedstr. 4, 13357 Berlin
 
 - Employees of the Client
 - Third-party users of the services
+- Persons mentioned in processed data
 
 ## 4. Types of Personal Data
 
@@ -43,6 +44,7 @@ IDIO Daten Import Export GmbH, Gottschedstr. 4, 13357 Berlin
 - Communication data (name, email)
 - Data required for authentication, authorization, and authorization (name and/or login username)
 - Log data
+- Personal data in the context of journalistic activities of the client
 
 ## 5. Location of Processing
 
@@ -101,6 +103,8 @@ The contractor must notify the client of any inspections by the data protection 
 The contractor is also required to provide the client with all necessary information needed for the client’s control of the contract and make relevant documentation available upon request. In addition, the contractor must inform the client of any expiration or revocation of certificates or measures according to Article 41(4) GDPR.
 
 The contractor will communicate any changes in the company's data protection officer’s name and contact information or, if no officer is required, the name and contact details of the responsible body to the client.
+
+The Contractor undertakes to immediately inform the Client as soon as any authority, prosecutor's office, or private individual seeks access to the Client's data. Furthermore, the Contractor commits to requesting that all inquiries be submitted in electronic form and to forwarding such inquiries to the Client. Additionally, the Contractor agrees, to the extent legally possible, to disclose data only in collaboration with the Client. The Contractor shall document all inquiries and data transmissions in this context and make such documentation available to the Client. 
 
 ### 8.4 Cooperation and Support Obligations
 
@@ -198,4 +202,4 @@ Signature/Stamp Controller   Signature/Stamp Contractor
 - [Technical and organizational measurements (TOMS)](./toms.md)
 - [List of subprocessors](./subprocessors.md)
 
-> Version 1.0 | 17.09.2024 | [legal@investigativedata.org](mailto:legal@investigativedata.org)
+> Version 1.1 | 2024-11-07 | [legal@investigativedata.org](mailto:legal@investigativedata.org)
