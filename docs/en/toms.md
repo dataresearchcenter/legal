@@ -2,7 +2,7 @@
 
 ## 1. Confidentiality
 
-### 1.1 Access Control
+### 1.1 Physical Access Control
 
 - Data Center:
     - Data Processing Agreement with Hetzner.
@@ -12,7 +12,7 @@
     - Building: PIN
     - Room: Electronic access control system with logging
 
-### 1.2 Access Control
+### 1.2 Access Control (authentification)
 
 - Internal Systems Used for Service Delivery:
 
@@ -53,7 +53,7 @@
         - Software and hardware policies for employee devices
         - Locked steel cabinet
 
-### 1.3 Access Control
+### 1.3 Access Control (authorization)
 
 - Technical Measures:
     - Logging of access to applications, specifically data entry, modification, and deletion

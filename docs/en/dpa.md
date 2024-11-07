@@ -194,4 +194,8 @@ Place/Date Controller        Place/Date Contractor
 
 Signature/Stamp Controller   Signature/Stamp Contractor
 
+## Attachments
+- [Technical and organizational measurements (TOMS)](./toms.md)
+- [List of subprocessors](./subprocessors.md)
+
 > Version 1.0 | 17.09.2024 | [legal@investigativedata.org](mailto:legal@investigativedata.org)

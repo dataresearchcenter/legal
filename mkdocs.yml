@@ -8,6 +8,7 @@ nav:
     - SLA Managed SSO: en/sla-sso.md
     - DPA: en/dpa.md
     - TOMS: en/toms.md
+    - Subprocessors: en/subprocessors.md
     - NDA: en/nda.md
     - Data privacy (website): en/dataprivacy-io.md
   - deutsch:
@@ -16,6 +17,7 @@ nav:
     - SLA Managed SSO: de/sla-sso.md
     - AVV: de/avv.md
     - TOMS: de/toms.md
+    - Unterauftragnehmer: de/unterauftragnehmer.md
     - NDA: de/nda.md
     - Datenschutz (website): de/datenschutzerklaerung-io.md
   - Contact:
