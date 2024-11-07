@@ -49,13 +49,12 @@
         - Verschlossener Stahlschrank
         
 ### 1.3. Zugriffskontrolle
-- Interne Systeme, die zur Auftragserfüllung genutzt werden:
-    - Technische Maßnahmen
-        - Protokollierung von Zugriffen auf Anwendungen, konkret bei der Eingabe, Änderung und Löschung von Daten
-    - Organisatorische Maßnahmen
-        - Einsatz Berechtigungskonzepte 
-        - Minimale Anzahl an Administratoren
-        - Verwaltung Benutzerrechte durch Administratoren
+- Technische Maßnahmen
+    - Protokollierung von Zugriffen auf Anwendungen, konkret bei der Eingabe, Änderung und Löschung von Daten
+- Organisatorische Maßnahmen
+    - Einsatz Berechtigungskonzepte 
+    - Minimale Anzahl an Administratoren
+    - Verwaltung Benutzerrechte durch Administratoren
         
 ### 1.4. Trennungskontrolle
 - Technische Maßnahmen
@@ -85,19 +84,14 @@
     
 
 ### 2.2. Eingabekontrolle
-- Interne Systeme, die zur Auftragserfüllung genutzt werden:
-    - Technische Maßnahmen:
-        - Technische Protokollierung der Eingabe, Änderung und Löschung von Daten
-        - Manuelle oder automatisierte Kontrolle der Protokolle
-    - Organisatorische Maßnahmen:
-        - Übersicht, mit welchen Programmen welche Daten eingegeben, geändert oder gelöscht werden können
-        - Nachvollziehbarkeit von Eingabe, Änderung und Löschung von Daten durch Individuelle Benutzernamen (nicht Benutzergruppen)
-        - Vergabe von Rechten zur Eingabe, Änderung und Löschung von Daten auf Basis eines Berechtigungskonzepts
-        - Klare Zuständigkeiten für Löschungen 
-- Datenverarbeitendes System:
-    - Technische Maßnahmen:
-        - Technische Protokollierung der Eingabe, Änderung und Löschung von Daten
-        - Manuelle oder automatisierte Kontrolle der Protokolle
+- Technische Maßnahmen:
+    - Technische Protokollierung der Eingabe, Änderung und Löschung von Daten
+    - Manuelle oder automatisierte Kontrolle der Protokolle
+- Organisatorische Maßnahmen:
+    - Übersicht, mit welchen Programmen welche Daten eingegeben, geändert oder gelöscht werden können
+    - Nachvollziehbarkeit von Eingabe, Änderung und Löschung von Daten durch Individuelle Benutzernamen (nicht Benutzergruppen)
+    - Vergabe von Rechten zur Eingabe, Änderung und Löschung von Daten auf Basis eines Berechtigungskonzepts
+    - Klare Zuständigkeiten für Löschungen 
 
 ## 3. Verfügbarkeit und Belastbarkeit
 
@@ -136,4 +130,4 @@
 - Technische Maßnahmen
     - Es werden nicht mehr personenbezogene Daten erhoben, als für den jeweiligen Zweck erforderlich sind
 
-> Version 1.0 | 17.09.2024 | [legal@investigativedata.org](mailto:legal@investigativedata.org)
+> Version 1.1 | 07.11.2024 | [legal@investigativedata.org](mailto:legal@investigativedata.org)

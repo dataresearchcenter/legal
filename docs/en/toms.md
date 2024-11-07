@@ -55,15 +55,13 @@
 
 ### 1.3 Access Control
 
-- Internal Systems Used for Service Delivery:
+- Technical Measures:
+    - Logging of access to applications, specifically data entry, modification, and deletion
 
-    - Technical Measures:
-        - Logging of access to applications, specifically data entry, modification, and deletion
-
-    - Organizational Measures:
-        - Use of authorization concepts
-        - Minimal number of administrators
-        - Management of user rights by administrators
+- Organizational Measures:
+    - Use of authorization concepts
+    - Minimal number of administrators
+    - Management of user rights by administrators
 
 ### 1.4 Separation Control
 
@@ -96,23 +94,16 @@
 
 ### 2.2 Input Control
 
-- Internal Systems Used for Service Delivery:
+- Technical Measures:
+    - Technical logging of data entry, modification, and deletion
+    - Manual or automated review of logs
 
-    - Technical Measures:
-        - Technical logging of data entry, modification, and deletion
-        - Manual or automated review of logs
+- Organizational Measures:
+    - Overview of which programs can input, modify, or delete which data
+    - Traceability of data entry, modification, and deletion by individual usernames (not user groups)
+    - Assignment of rights for data entry, modification, and deletion based on an authorization concept
+    - Clear responsibilities for deletions
 
-    - Organizational Measures:
-        - Overview of which programs can input, modify, or delete which data
-        - Traceability of data entry, modification, and deletion by individual usernames (not user groups)
-        - Assignment of rights for data entry, modification, and deletion based on an authorization concept
-        - Clear responsibilities for deletions
-
-- Data Processing System:
-
-    - Technical Measures:
-        - Technical logging of data entry, modification, and deletion
-        - Manual or automated review of logs
 
 ## 3. Availability and Resilience
 
@@ -158,4 +149,4 @@
 - Technical Measures:
     - No more personal data is collected than necessary for the respective purpose
 
-> Version 1.0 | 17.09.2024 | [legal@investigativedata.org](mailto:legal@investigativedata.org)
+> Version 1.1 | 2024-11-07 | [legal@investigativedata.org](mailto:legal@investigativedata.org)
