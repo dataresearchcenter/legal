@@ -4,7 +4,7 @@ repo_url: https://github.com/investigativedata/legal
 nav:
   - english:
     - TOS: en/tos.md
-    - SLA Managed Aleph: en/sla-aleph.md
+    - SLA Managed OpenAleph: en/sla-openaleph.md
     - SLA Managed SSO: en/sla-sso.md
     - DPA: en/dpa.md
     - TOMS: en/toms.md
@@ -13,7 +13,7 @@ nav:
     - Data privacy (website): en/dataprivacy-io.md
   - deutsch:
     - AGB: de/agb.md
-    - SLA Managed Aleph: de/sla-aleph.md
+    - SLA Managed OpenAleph: de/sla-openaleph.md
     - SLA Managed SSO: de/sla-sso.md
     - AVV: de/avv.md
     - TOMS: de/toms.md
