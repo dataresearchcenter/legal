@@ -1,14 +1,14 @@
 # Service Level Agreement (SLA)
 
-## Managed Aleph
+## Managed OpenAleph
 
-This Service Level Agreement (SLA) applies to the operation of an instance of the [Aleph](https://docs.aleph.occrp.org/) research platform between customers and [IDIO Daten Import Export GmbH](https://investigativedata.io), hereinafter referred to as "us" or "we."
+This Service Level Agreement (SLA) applies to the operation of an instance of the [OpenAleph](https://openaleph.org/) research platform between customers and [IDIO Daten Import Export GmbH](https://dataresearchcenter.org), hereinafter referred to as "us" or "we."
 
 The [General Terms and Conditions](./tos.md) are applicable.
 
 ## 1. Service Description
 
-1.1 We operate an exclusive instance of the Aleph research platform for an editorial team or organization, hereinafter referred to as "the customer." The services include:
+1.1 We operate an exclusive instance of the OpenAleph research platform for an editorial team or organization, hereinafter referred to as "the customer." The services include:
 
 - Provision and operation of server infrastructure.
 - Ensuring the accessibility and smooth functioning of the application.
@@ -28,7 +28,7 @@ The [General Terms and Conditions](./tos.md) are applicable.
 
 ## 2. Contact and Support
 
-2.1 All Aleph servers include electronic support during the specified support hours. The customer can submit support requests via email to [support@investigativedata.org](mailto:support@investigativedata.org).
+2.1 All OpenAleph servers include electronic support during the specified support hours. The customer can submit support requests via email to [support@investigativedata.org](mailto:support@investigativedata.org).
 
 2.2 Generally, support requests from the customer are not included in the flat rate. Only requests stemming from system failures or other technical errors for which we are responsible are included in the price. Support requests not covered by the provided documentation but necessary for the customer's smooth operation and within reasonable effort are also covered. All other support services will be charged at individually agreed rates after prior consultation.
 
@@ -38,7 +38,7 @@ The [General Terms and Conditions](./tos.md) are applicable.
 
 The following services are automatically monitored for failures around the clock:
 
-- Web server (accessibility of the Aleph interface)
+- Web server (accessibility of the OpenAleph interface)
 - Login server
 - Outgoing email system
 - Server services and databases
@@ -55,7 +55,7 @@ The following services are automatically monitored for failures around the clock
 
 ## 5. Server Access
 
-5.1 For Managed Aleph Servers, root access is generally not available to customers.
+5.1 For Managed OpenAleph Servers, root access is generally not available to customers.
 
 5.2 The customer has the right to receive read access to their data and backups during the contract term. This must be requested and agreed upon separately. Access is provided through an S3-compatible interface. The customer is responsible for ensuring access security.
 
@@ -63,7 +63,7 @@ The following services are automatically monitored for failures around the clock
 
 ## 6. Data Backup
 
-All Managed Aleph Servers come with remote backup, which includes the document archive, the search index (Elasticsearch), and the SQL database. All data is backed up daily and retained for a maximum of 30 days. Restoring a backup can be requested and will depend on the data volume, taking several hours to several days. Restoration for data loss on the customer's side (e.g., accidental deletion) is subject to charges.
+All Managed OpenAleph Servers come with remote backup, which includes the document archive, the search index (Elasticsearch), and the SQL database. All data is backed up daily and retained for a maximum of 30 days. Restoring a backup can be requested and will depend on the data volume, taking several hours to several days. Restoration for data loss on the customer's side (e.g., accidental deletion) is subject to charges.
 
 ## 7. Content and Data
 
