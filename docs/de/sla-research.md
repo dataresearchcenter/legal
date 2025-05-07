@@ -1,8 +1,8 @@
-# Service-Level-Vereinbarung (SLA)
+# Dienstleistungsvertrag
 
 ## Recherchedienstleistungen
 
-Diese Service-Level-Vereinbarung (SLA) gilt für die von uns, dem [Data and Research Center](https://dataresearchcenter.org), gegenüber Kunden (im Folgenden „Sie“ oder „Ihr“) erbrachten Recherchedienstleistungen. Die [Allgemeinen Geschäftsbedingungen](./tos.md) und die [Datenschutzerklärung](./datenschutzerklaerung-io.md) finden Anwendung.
+Diese Service-Level-Vereinbarung (SLA) gilt für die von uns, dem [Data and Research Center](https://dataresearchcenter.org) (im Geschäftsverkehr unter dem Namen _Data and Research Center - DARC_ tätig), gegenüber Kunden (im Folgenden „Sie“ oder „Ihr“) erbrachten Recherchedienstleistungen. Die [Allgemeinen Geschäftsbedingungen](./tos.md) und die [Datenschutzerklärung](./datenschutzerklaerung-io.md) finden Anwendung.
 
 ## 1. Leistungsbeschreibung
 

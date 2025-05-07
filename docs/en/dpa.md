@@ -4,13 +4,13 @@ between
 
 *Client (to be inserted)*
 
-- hereinafter referred to as the Controller -
+\- hereinafter referred to as the Controller -
 
 and
 
 IDIO Daten Import Export GmbH, Gottschedstr. 4, 13357 Berlin
 
-- hereinafter referred to as the Processor -
+\- hereinafter referred to as the Processor -
 
 
 ## 1. Subject of the Agreement

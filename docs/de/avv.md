@@ -4,13 +4,13 @@ zwischen
 
 *Kundin (wird eingefügt)*
 
-- nachstehend Auftraggeber genannt -
+\- nachstehend Auftraggeber genannt -
 
 und
 
-IDIO Daten Import Export GmbH, Gottschedstr. 4, 13357 Berlin
+IDIO Daten Import Export GmbH, Gottschedstr. 4, 13357 Berlin im Geschäftsverkehr unter dem Namen _Data and Research Center - DARC_ tätig)
 
-- nachstehend Auftragnehmer genannt -
+\- nachstehend Auftragnehmer genannt -
 
 
 ## 1. Gegenstand des Auftrages

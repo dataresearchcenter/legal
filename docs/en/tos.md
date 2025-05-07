@@ -2,7 +2,7 @@
 
 ## 1. General - Scope
 
-1.1 These General Terms and Conditions apply to all business relationships between you and [IDIO Daten Import Export GmbH](https://dataresearchcenter.org), hereinafter referred to as "us" or "we." They are an integral part of every contract we enter into with you and also apply to future services and offers, even if not expressly agreed upon again.
+1.1 These General Terms and Conditions apply to all business relationships between you and [IDIO Daten Import Export GmbH](https://dataresearchcenter.org) (doing business as _Data and Research Center - DARC_), hereinafter referred to as "us" or "we." They are an integral part of every contract we enter into with you and also apply to future services and offers, even if not expressly agreed upon again.
 
 1.2 Terms and conditions provided by you or third parties do not apply and will not become part of the contract, even if we do not explicitly object to them.
 

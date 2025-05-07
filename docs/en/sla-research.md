@@ -2,7 +2,7 @@
 
 ## Research Services
 
-This Service Level Agreement (SLA) applies to research services provided to customers, hereinafter referred to as "you" or "your", and the [Data and Research Center](https://dataresearchcenter.org), hereinafter referred to as "us" or "we".
+This Service Level Agreement (SLA) applies to research services provided to customers, hereinafter referred to as "you" or "your", and [IDIO Daten Import Export GmbH](https://dataresearchcenter.org) (doing business as _Data and Research Center - DARC_), hereinafter referred to as "us" or "we".
 
 The [General Terms and Conditions](./tos.md) are applicable. For customers under the jurisdiction of the General Data Protection Regulation, the [Data Processing Agreement](./dpa.md) are applicable.
 

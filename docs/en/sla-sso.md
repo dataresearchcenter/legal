@@ -2,7 +2,7 @@
 
 ## Managed SSO
 
-This Service Level Agreement (SLA) applies to the operation of an instance of the sso system [Keycloak](https://keycloak.org/) between customers and [IDIO Daten Import Export GmbH](https://dataresearchcenter.org), hereinafter referred to as "us" or "we."
+This Service Level Agreement (SLA) applies to the operation of an instance of the sso system [Keycloak](https://keycloak.org/) between customers and [IDIO Daten Import Export GmbH](https://dataresearchcenter.org) (doing business as _Data and Research Center - DARC_), hereinafter referred to as "us" or "we."
 
 The [General Terms and Conditions](./tos.md) are applicable.
 

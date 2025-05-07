@@ -2,7 +2,7 @@
 
 ## 1. Allgemeines – Geltungsbereich
 
-1.1 Diese Allgemeinen Geschäftsbedingungen gelten für alle Geschäftsbeziehungen zwischen Ihnen und der [IDIO Daten Import Export GmbH](https://dataresearchcenter.org), nachfolgend als "uns" oder "wir" bezeichnet. Sie sind Teil jedes Vertrages, den wir mit Ihnen abschließen, und gelten auch für zukünftige Dienstleistungen und Angebote, selbst wenn wir sie nicht noch einmal gesondert vereinbaren.
+1.1 Diese Allgemeinen Geschäftsbedingungen gelten für alle Geschäftsbeziehungen zwischen Ihnen und der [IDIO Daten Import Export GmbH](https://dataresearchcenter.org) (im Geschäftsverkehr unter dem Namen _Data and Research Center - DARC_ tätig), nachfolgend als "uns" oder "wir" bezeichnet. Sie sind Teil jedes Vertrages, den wir mit Ihnen abschließen, und gelten auch für zukünftige Dienstleistungen und Angebote, selbst wenn wir sie nicht noch einmal gesondert vereinbaren.
 
 1.2 Die Geschäftsbedingungen, die von Ihnen oder Dritten gestellt werden, gelten nicht und werden nicht Teil des Vertrages, selbst wenn wir ihnen nicht ausdrücklich widersprechen.
 

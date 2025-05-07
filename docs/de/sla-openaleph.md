@@ -2,7 +2,7 @@
 
 ## Managed OpenAleph
 
-Dieser Dienstleistungsvertrag gilt für den Betrieb einer Instanz der Recherche-Plattform [OpenAleph](https://openaleph.org/) zwischen Kund*innen und der [IDIO Daten Import Export GmbH](https://dataresearchcenter.org), nachfolgend als „uns“ oder „wir“ bezeichnet.
+Dieser Dienstleistungsvertrag gilt für den Betrieb einer Instanz der Recherche-Plattform [OpenAleph](https://openaleph.org/) zwischen Kund*innen und der [IDIO Daten Import Export GmbH](https://dataresearchcenter.org) (im Geschäftsverkehr unter dem Namen _Data and Research Center - DARC_ tätig), nachfolgend als „uns“ oder „wir“ bezeichnet.
 
 Es gelten die [Allgemeinen Geschäftsbedingungen](./agb.md).
 
