@@ -1,6 +1,6 @@
 # Vertraulichkeitsvereinbarung
 
-zwischen 
+zwischen
 
 *Auftragnehmerin oder Auftraggeberin (wird eingefügt)*
 
@@ -75,4 +75,4 @@ Ort/Datum Auftraggeber Ort/Datum Auftragnehmer
 
 Unterschrift/Stempel Auftraggeber Unterschrift/Stempel Auftragnehmer
 
-> Version 1.0 | 17.09.2024 | [legal@investigativedata.org](mailto:legal@investigativedata.org)
+> Version 1.0 | 17.09.2024 | [legal@dataresearchcenter.org](mailto:legal@dataresearchcenter.org)

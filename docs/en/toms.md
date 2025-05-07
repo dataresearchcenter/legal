@@ -149,4 +149,4 @@
 - Technical Measures:
     - No more personal data is collected than necessary for the respective purpose
 
-> Version 1.1 | 2024-11-07 | [legal@investigativedata.org](mailto:legal@investigativedata.org)
+> Version 1.1 | 2024-11-07 | [legal@dataresearchcenter.org](mailto:legal@dataresearchcenter.org)

@@ -40,7 +40,7 @@ IDIO Daten Import Export GmbH, Gottschedstr. 4, 13357 Berlin
 
 ## 4. Arten der personenbezogenen Daten
 
-4.1. Gegenstand der Erhebung, Verarbeitung und/oder Nutzung personenbezogener Daten sind folgende Datenarten/-kategorien: 
+4.1. Gegenstand der Erhebung, Verarbeitung und/oder Nutzung personenbezogener Daten sind folgende Datenarten/-kategorien:
 - Kommunikationsdaten (Name, Email)
 - Benötigte Daten zur Authentisierung, Authentifizierung und Autorisierung (Name und/oder Login-Username)
 - Protokolldaten
@@ -105,7 +105,7 @@ Der Auftragnehmer verpflichtet sich, dem Auftraggeber auf Anforderung die zur Wa
 
 Der Auftragnehmer teilt dem Auftraggeber Name und Kontaktdaten und Änderungen in der Person des betrieblichen Datenschutzbeauftragten oder, wenn keine Bestellpflicht besteht, den Namen und die Kontaktdaten der sonstigen zuständigen Stelle mit.
 
-Der Auftragnehmer verpflichtet sich, seinen Auftraggeber unverzüglich zu unterrichten, sobald eine Behörde, eine Staatsanwaltschaft oder Private auf die Daten des Auftraggebers zugreifen wollen. Er verpflichtet sich ferner, sich alle Anfragen in elektronischer Form geben zu lassen und diese an den Auftraggeber weiterzuleiten. Weiter verpflichtet er sich, soweit rechtlich möglich, Daten nur in Zusammenarbeit mit dem Auftraggeber herauszugeben. Der Auftragnehmer dokumentiert sämtliche Anfragen und Datenübermittlungen in diesem Zusammenhang und stellt diese Dokumentation dem Auftraggeber zur Verfügung. 
+Der Auftragnehmer verpflichtet sich, seinen Auftraggeber unverzüglich zu unterrichten, sobald eine Behörde, eine Staatsanwaltschaft oder Private auf die Daten des Auftraggebers zugreifen wollen. Er verpflichtet sich ferner, sich alle Anfragen in elektronischer Form geben zu lassen und diese an den Auftraggeber weiterzuleiten. Weiter verpflichtet er sich, soweit rechtlich möglich, Daten nur in Zusammenarbeit mit dem Auftraggeber herauszugeben. Der Auftragnehmer dokumentiert sämtliche Anfragen und Datenübermittlungen in diesem Zusammenhang und stellt diese Dokumentation dem Auftraggeber zur Verfügung.
 
 ### 8.4. Mitwirkungs- und Unterstützungspflichten
 
@@ -207,4 +207,4 @@ Unterschrift/Stempel Auftraggeber Unterschrift/Stempel Auftragnehmer
 - [Technische und organisatorische Maßnahmen (TOMS)](./toms.md)
 - [Liste der Unterauftragnehmer](./unterauftragnehmer.md)
 
-> Version 1.1 | 07.11.2024 | [legal@investigativedata.org](mailto:legal@investigativedata.org)
+> Version 1.1 | 07.11.2024 | [legal@dataresearchcenter.org](mailto:legal@dataresearchcenter.org)

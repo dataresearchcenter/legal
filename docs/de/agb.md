@@ -2,7 +2,7 @@
 
 ## 1. Allgemeines – Geltungsbereich
 
-1.1 Diese Allgemeinen Geschäftsbedingungen gelten für alle Geschäftsbeziehungen zwischen Ihnen und der [IDIO Daten Import Export GmbH](https://investigativedata.io), nachfolgend als "uns" oder "wir" bezeichnet. Sie sind Teil jedes Vertrages, den wir mit Ihnen abschließen, und gelten auch für zukünftige Dienstleistungen und Angebote, selbst wenn wir sie nicht noch einmal gesondert vereinbaren.
+1.1 Diese Allgemeinen Geschäftsbedingungen gelten für alle Geschäftsbeziehungen zwischen Ihnen und der [IDIO Daten Import Export GmbH](https://dataresearchcenter.org), nachfolgend als "uns" oder "wir" bezeichnet. Sie sind Teil jedes Vertrages, den wir mit Ihnen abschließen, und gelten auch für zukünftige Dienstleistungen und Angebote, selbst wenn wir sie nicht noch einmal gesondert vereinbaren.
 
 1.2 Die Geschäftsbedingungen, die von Ihnen oder Dritten gestellt werden, gelten nicht und werden nicht Teil des Vertrages, selbst wenn wir ihnen nicht ausdrücklich widersprechen.
 
@@ -56,7 +56,7 @@ Die Vertragsparteien bestätigen, dass ihnen die einschlägigen datenschutzrecht
 
 6.2. Die Kundin stellt sicher, dass alle gesetzlichen und vertraglichen Bestimmungen bereits bei der Übertragung des Nutzungsrechts eingehalten werden.
 
-6.3. Wenn die von der Kundin berechtigte Dritte ihre vertraglichen Pflichten verletzt, ihre Mitwirkungspflichten nicht erfüllt, unrichtige oder unvollständige Daten angibt oder andere Probleme im Zusammenhang mit der Einräumung dieser Nutzungsrechte auftreten, haftet die Kundin vollständig für alle daraus resultierenden Schäden. 
+6.3. Wenn die von der Kundin berechtigte Dritte ihre vertraglichen Pflichten verletzt, ihre Mitwirkungspflichten nicht erfüllt, unrichtige oder unvollständige Daten angibt oder andere Probleme im Zusammenhang mit der Einräumung dieser Nutzungsrechte auftreten, haftet die Kundin vollständig für alle daraus resultierenden Schäden.
 
 ## 7. Haftung
 
@@ -72,8 +72,8 @@ Vertraulichkeit und Geheimhaltung werden im Auftragsverarbeitungsvertrag nach GD
 
 9.1. Diese Allgemeinen Geschäftsbedingungen und die Vertragsbeziehung zwischen Ihnen und uns unterliegen dem Recht der Bundesrepublik Deutschland. Das UN-Kaufrecht und das internationale Privatrecht finden keine Anwendung.
 
-9.2. Für alle Streitigkeiten, die sich aus dem Vertragsverhältnis ergeben, ist unser Geschäftssitz in Berlin der ausschließliche Gerichtsstand, auch für internationale Fälle. 
+9.2. Für alle Streitigkeiten, die sich aus dem Vertragsverhältnis ergeben, ist unser Geschäftssitz in Berlin der ausschließliche Gerichtsstand, auch für internationale Fälle.
 
-9.3. Sollte eine Bestimmung unserer Allgemeinen Geschäftsbedingungen oder eines produktspezifischen Vertrags ganz oder teilweise unwirksam oder undurchführbar sein oder werden, hat dies keinen Einfluss auf die Gültigkeit der übrigen Bestimmungen. Gleiches gilt, wenn eine Lücke in diesem Vertrag festgestellt wird. 
+9.3. Sollte eine Bestimmung unserer Allgemeinen Geschäftsbedingungen oder eines produktspezifischen Vertrags ganz oder teilweise unwirksam oder undurchführbar sein oder werden, hat dies keinen Einfluss auf die Gültigkeit der übrigen Bestimmungen. Gleiches gilt, wenn eine Lücke in diesem Vertrag festgestellt wird.
 
-> Version 1.0 | 23.10.2023 | [legal@investigativedata.org](mailto:legal@investigativedata.org)
+> Version 1.0 | 23.10.2023 | [legal@dataresearchcenter.org](mailto:legal@dataresearchcenter.org)
