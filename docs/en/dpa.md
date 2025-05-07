@@ -8,7 +8,7 @@ between
 
 and
 
-IDIO Daten Import Export GmbH, Gottschedstr. 4, 13357 Berlin
+IDIO Daten Import Export GmbH, Gottschedstr. 4, 13357 Berlin (doing business as _Data and Research Center - DARC_)
 
 \- hereinafter referred to as the Processor -
 

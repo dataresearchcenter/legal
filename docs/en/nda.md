@@ -6,7 +6,7 @@ between
 
 and
 
-IDIO Daten Import Export GmbH, Gottschedstr. 6, 13357 Berlin
+IDIO Daten Import Export GmbH, Gottschedstr. 6, 13357 Berlin (doing business as _Data and Research Center - DARC_)
 
 hereinafter each also referred to as "Party" and collectively as "Parties"
 
