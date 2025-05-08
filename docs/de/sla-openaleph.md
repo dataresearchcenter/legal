@@ -13,7 +13,7 @@ Es gelten die [Allgemeinen Geschäftsbedingungen](./agb.md).
 - Bereitstellung und Betrieb der Server-Infrastruktur
 - Gewährleistung der Erreichbarkeit und reibungslosen Funktion der Anwendung
 - Durchführung von Backups (siehe Punkt 6)
-- Bereitstellung eines Login-Systems mit MFA oder Integration eines vorhandenen OICD-Systems der Kundin
+- Bereitstellung eines Login-Systems mit technischen Maßnahmen zur Sicherheit der Accounts wie z.B. Multi-Factor-Authentifizierung oder Integration eines vorhandenen OICD-Systems der Kundin
 - Bereitstellung und Pflege einer Lösung, mit der große Mengen von Dokumenten einfach hochgeladen und importiert werden können (s3, rsync, webdav oder sftp)
 - Bereitstellung und Pflege eines Systems, um regelmäßig strukturierte Datensätze in die Plattform zu importieren
 - Auf Anfrage können wir auch umfangreiche Dokumentensammlungen in die Plattform importieren
@@ -21,7 +21,7 @@ Es gelten die [Allgemeinen Geschäftsbedingungen](./agb.md).
 1.2. Die Kundin ist verantwortlich für:
 
 - Verwaltung von Benutzern und Gruppen
-- Sicherheit der Benutzer-Accounts
+- Organisatorische Maßnahmen zur Sicherheit der Benutzer-Accounts
 - Import, Kuration und Organisation von Daten
 
 1.3. Individuelle Vereinbarungen können diese Leistungsbeschreibung ergänzen.
@@ -71,7 +71,7 @@ Alle Managed OpenAleph Server verfügen über ein Remote-Backup, das das Dokumen
 
 ## 8. Zugriffsverwaltung
 
-Die Kundin erhält einen oder mehrere Administratorzugänge, um Zugriffsrechte für Benutzer und Gruppen zu verwalten. Eine öffentliche Dokumentation wird von uns bereitgestellt. Die Kundin ist selbst für die Sicherheit dieser Konten verantwortlich.
+Die Kundin erhält einen oder mehrere Administratorzugänge, um Zugriffsrechte für Benutzer und Gruppen zu verwalten. Eine öffentliche Dokumentation wird von uns bereitgestellt. Die Kundin ist selbst für die organisatorischen Maßnahmen zur Sicherheit dieser Konten verantwortlich.
 
 
-> Version 1.0 | 23.10.2023 | [legal@dataresearchcenter.org](mailto:legal@dataresearchcenter.org)
+> Version 1.1 | 08.05.2025 | [legal@dataresearchcenter.org](mailto:legal@dataresearchcenter.org)

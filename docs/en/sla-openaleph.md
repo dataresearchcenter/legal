@@ -13,7 +13,7 @@ The [General Terms and Conditions](./tos.md) are applicable.
 - Provision and operation of server infrastructure.
 - Ensuring the accessibility and smooth functioning of the application.
 - Conducting backups (refer to Section 6).
-- Providing a login system with MFA or integrating an existing OICD system of the customer.
+- Providing a login system with technical measures for account security, such as multi factor authentification or integrating an existing OICD system of the customer.
 - Providing and maintaining a solution for easily uploading and importing large volumes of documents (s3, rsync, webdav, or sftp).
 - Providing and maintaining a system for regularly importing structured datasets into the platform.
 - Importing extensive document collections upon request.
@@ -21,7 +21,7 @@ The [General Terms and Conditions](./tos.md) are applicable.
 1.2 The customer is responsible for:
 
 - Managing users and groups.
-- Security of user accounts.
+- Organisational measures for the security of user accounts.
 - Importing, curating, and organizing data.
 
 1.3 Individual agreements may supplement this service description.
@@ -71,7 +71,7 @@ Changes to content and sensitive data uploaded or received by the customer, such
 
 ## 8. Access Management
 
-The customer receives one or more administrator accesses to manage access rights for users and groups. Public documentation is provided by us. The customer is responsible for the security of these accounts.
+The customer receives one or more administrator accesses to manage access rights for users and groups. Public documentation is provided by us. The customer is responsible for the organisational measures for security of these accounts.
 
 
-> Version 1.0 | 2023-10-23 | [legal@dataresearchcenter.org](mailto:legal@dataresearchcenter.org)
+> Version 1.1 | 2025-05-08 | [legal@dataresearchcenter.org](mailto:legal@dataresearchcenter.org)
