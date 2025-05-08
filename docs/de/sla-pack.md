@@ -18,7 +18,7 @@ Dieser Dienstleistungsvertrag regelt Paket-Leistungen, die  die [IDIO Daten Impo
 
 2.3 Bei Widersprüchen gelten die spezifischen Regelungen der einschlägigen SLA (Research oder OpenAleph) vor dieser Starter-Paket-SLA.
 
-2.4 Unsere [Allgemeinen Geschäftsbedingungen](./agb.md) und unsere [Datenschutzerklärung](./datenschutzerklaerung-io.md) finden Anwendung.
+2.4 Unsere [Allgemeinen Geschäftsbedingungen](./agb.md), unser [Auftragsverarbeitungs-Vertrag](./avv.md) und unsere [Datenschutzerklärung](./datenschutzerklaerung-io.md) finden Anwendung.
 
 2.5 Im Falle eines Widerspruchs zwischen dieser Vereinbarung und den vorstehenden Vereinbarungen haben die Bestimmungen dieser Vereinbarung – einschließlich, aber nicht beschränkt auf die Fristen in Abschnitt 1 – Vorrang.
 
@@ -42,4 +42,4 @@ Dieser Dienstleistungsvertrag regelt Paket-Leistungen, die  die [IDIO Daten Impo
 
 4.2 Termine für Trainings und Webinare werden separat und in Absprache mit Ihnen festgelegt.
 
-> Version 1.0 | 07.05.2025 | [legal@dataresearchcenter.org](mailto:legal@dataresearchcenter.org)
+> Version 1.1 | 08.05.2025 | [legal@dataresearchcenter.org](mailto:legal@dataresearchcenter.org)
