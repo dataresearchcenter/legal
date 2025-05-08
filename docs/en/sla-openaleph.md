@@ -2,7 +2,7 @@
 
 ## Managed OpenAleph
 
-This Service Level Agreement (SLA) applies to the operation of an instance of the [OpenAleph](https://openaleph.org/) research platform between customers and [IDIO Daten Import Export GmbH](https://dataresearchcenter.org), hereinafter referred to as "us" or "we."
+This Service Level Agreement (SLA) applies to the operation of an instance of the [OpenAleph](https://openaleph.org/) research platform between customers and [IDIO Daten Import Export GmbH](https://dataresearchcenter.org) (doing business as _Data and Research Center - DARC_), hereinafter referred to as "us" or "we."
 
 The [General Terms and Conditions](./tos.md) are applicable.
 
@@ -13,7 +13,7 @@ The [General Terms and Conditions](./tos.md) are applicable.
 - Provision and operation of server infrastructure.
 - Ensuring the accessibility and smooth functioning of the application.
 - Conducting backups (refer to Section 6).
-- Providing a login system with MFA or integrating an existing OICD system of the customer.
+- Providing a login system with technical measures for account security, such as multi factor authentification or integrating an existing OICD system of the customer.
 - Providing and maintaining a solution for easily uploading and importing large volumes of documents (s3, rsync, webdav, or sftp).
 - Providing and maintaining a system for regularly importing structured datasets into the platform.
 - Importing extensive document collections upon request.
@@ -21,14 +21,14 @@ The [General Terms and Conditions](./tos.md) are applicable.
 1.2 The customer is responsible for:
 
 - Managing users and groups.
-- Security of user accounts.
+- Organisational measures for the security of user accounts.
 - Importing, curating, and organizing data.
 
 1.3 Individual agreements may supplement this service description.
 
 ## 2. Contact and Support
 
-2.1 All OpenAleph servers include electronic support during the specified support hours. The customer can submit support requests via email to [support@investigativedata.org](mailto:support@investigativedata.org).
+2.1 All OpenAleph servers include electronic support during the specified support hours. The customer can submit support requests via email to [support@dataresearchcenter.org](mailto:support@dataresearchcenter.org).
 
 2.2 Generally, support requests from the customer are not included in the flat rate. Only requests stemming from system failures or other technical errors for which we are responsible are included in the price. Support requests not covered by the provided documentation but necessary for the customer's smooth operation and within reasonable effort are also covered. All other support services will be charged at individually agreed rates after prior consultation.
 
@@ -71,7 +71,7 @@ Changes to content and sensitive data uploaded or received by the customer, such
 
 ## 8. Access Management
 
-The customer receives one or more administrator accesses to manage access rights for users and groups. Public documentation is provided by us. The customer is responsible for the security of these accounts.
+The customer receives one or more administrator accesses to manage access rights for users and groups. Public documentation is provided by us. The customer is responsible for the organisational measures for security of these accounts.
 
 
-> Version 1.0 | 2023-10-23 | [legal@investigativedata.org](mailto:legal@investigativedata.org)
+> Version 1.1 | 2025-05-08 | [legal@dataresearchcenter.org](mailto:legal@dataresearchcenter.org)

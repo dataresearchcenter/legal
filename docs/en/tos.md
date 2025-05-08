@@ -2,13 +2,15 @@
 
 ## 1. General - Scope
 
-1.1 These General Terms and Conditions apply to all business relationships between you and [IDIO Daten Import Export GmbH](https://investigativedata.io), hereinafter referred to as "us" or "we." They are an integral part of every contract we enter into with you and also apply to future services and offers, even if not expressly agreed upon again.
+1.1 These General Terms and Conditions apply to all business relationships between you and [IDIO Daten Import Export GmbH](https://dataresearchcenter.org) (doing business as _Data and Research Center - DARC_), hereinafter referred to as "us" or "we." They are an integral part of every contract we enter into with you and also apply to future services and offers, even if not expressly agreed upon again.
 
 1.2 Terms and conditions provided by you or third parties do not apply and will not become part of the contract, even if we do not explicitly object to them.
 
 1.3 Our employees and third parties authorized by us are not entitled to make oral agreements or provide assurances.
 
 1.4 Hereinafter, we use the term "the customer" as a simplified reference for customers, which includes both legal entities and natural persons. The same applies to the term "third parties."
+
+1.5 We may use your organization’s name and logo on our website (e.g., under “Clients” or “Projects”) and in social media communications. You may opt out of such use at any time, either globally or on a per-request basis, by notifying us.
 
 ## 2. Conclusion, Duration, and Termination of the Contract
 
@@ -76,4 +78,4 @@ Confidentiality and secrecy are established in the Data Processing Agreement und
 
 9.3. If any provision of our General Terms and Conditions or a product-specific contract is or becomes invalid or unenforceable in whole or in part, it does not affect the validity of the remaining provisions. The same applies if a gap is found in this contract.
 
-> Version 1.0 | 2023-10-23 | [legal@investigativedata.org](mailto:legal@investigativedata.org)
+> Version 1.1 | 2025-05-08 | [legal@dataresearchcenter.org](mailto:legal@dataresearchcenter.org)

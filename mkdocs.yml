@@ -1,11 +1,13 @@
 site_name: Legal documents
-site_url: https://investigativedata.io/legal
-repo_url: https://github.com/investigativedata/legal
+site_url: https://dataresearchcenter.org/legal
+repo_url: https://github.com/dataresearchcenter/legal
 nav:
   - english:
     - TOS: en/tos.md
+    - SLA DARC Pack: en/sla-pack.md
     - SLA Managed OpenAleph: en/sla-openaleph.md
     - SLA Managed SSO: en/sla-sso.md
+    - SLA Research Services: en/sla-research.md
     - DPA: en/dpa.md
     - TOMS: en/toms.md
     - Subprocessors: en/subprocessors.md
@@ -13,21 +15,23 @@ nav:
     - Data privacy (website): en/dataprivacy-io.md
   - deutsch:
     - AGB: de/agb.md
+    - SLA DARC Pack: de/sla-pack.md
     - SLA Managed OpenAleph: de/sla-openaleph.md
     - SLA Managed SSO: de/sla-sso.md
+    - SLA Recherchedienstleistungen: de/sla-research.md
     - AVV: de/avv.md
     - TOMS: de/toms.md
     - Unterauftragnehmer: de/unterauftragnehmer.md
     - NDA: de/nda.md
     - Datenschutz (website): de/datenschutzerklaerung-io.md
   - Contact:
-    - › Email us: mailto:legal@investigativedata.org
-    - › investigativedata.io: https://investigativedata.io
+    - › Email: mailto:legal@dataresearchcenter.org
+    - › dataresearchcenter.org: https://dataresearchcenter.org
 theme:
   name: material
   custom_dir: overrides
-  logo: https://cdn.investigativedata.org/style/logo_basic_dark.svg
-  favicon: https://cdn.investigativedata.org/style/favicon.svg
+  logo: https://cdn.investigativedata.org/style/logos/darc/svg/DARC-Logo-RGB-Horizontal-Neg.svg
+  favicon: https://cdn.investigativedata.org/style/logos/darc/favicon.ico
   features:
     - navigation.instant
     - navigation.tracking
@@ -41,10 +45,10 @@ markdown_extensions:
 extra:
   social:
     - icon: material/web
-      link: https://investigativedata.io
+      link: https://dataresearchcenter.org
     - icon: material/mail
-      link: mailto:legal@investigativedata.org
+      link: mailto:legal@dataresearchcenter.org
     - icon: material/github
-      link: https://github.com/investigativedata
+      link: https://github.com/dataresearchcenter
     - icon: material/linkedin
-      link: https://www.linkedin.com/company/investigativedata/
+      link: https://www.linkedin.com/company/dataresearchcenter/

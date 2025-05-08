@@ -6,7 +6,7 @@ between
 
 and
 
-IDIO Daten Import Export GmbH, Gottschedstr. 6, 13357 Berlin
+IDIO Daten Import Export GmbH, Gottschedstr. 6, 13357 Berlin (doing business as _Data and Research Center - DARC_)
 
 hereinafter each also referred to as "Party" and collectively as "Parties"
 
@@ -20,9 +20,9 @@ With this in mind, the Parties agree as follows:
 
 (1) The Parties hereby agree to:
 
-(a) treat the Confidential Information strictly confidential and not disclose it to third parties (as defined in para. 2); 
+(a) treat the Confidential Information strictly confidential and not disclose it to third parties (as defined in para. 2);
 
-(b) maintain and implement appropriate and up-to-date electronic security measures to protect the Confidential Information; and 
+(b) maintain and implement appropriate and up-to-date electronic security measures to protect the Confidential Information; and
 
 (c) use the Confidential Information solely for the purpose of evaluating the project and conducting negotiations within the framework of the project; in particular, the parties will not use the Confidential Information to gain a business advantage in competition with the other participating party of this agreement, an affiliated company or third parties.
 
@@ -76,4 +76,4 @@ Location/Date, Client		           Location/Date, Contractor
 Signature/Stempel of Client 		Signature/Stempel of Contractor
 
 
-> Version 1.0 | 17.09.2024 | [legal@investigativedata.org](mailto:legal@investigativedata.org)
+> Version 1.0 | 17.09.2024 | [legal@dataresearchcenter.org](mailto:legal@dataresearchcenter.org)

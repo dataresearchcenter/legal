@@ -1,12 +1,12 @@
 # Vertraulichkeitsvereinbarung
 
-zwischen 
+zwischen
 
 *Auftragnehmerin oder Auftraggeberin (wird eingefügt)*
 
 und
 
-IDIO Daten Import Export GmbH, Gottschedstr. 4, 13357 Berlin
+IDIO Daten Import Export GmbH, Gottschedstr. 4, 13357 Berlin (im Geschäftsverkehr unter dem Namen _Data and Research Center - DARC_ tätig)
 
 nachstehend jeweils auch "Partei" und gemeinsam "Parteien"
 
@@ -75,4 +75,4 @@ Ort/Datum Auftraggeber Ort/Datum Auftragnehmer
 
 Unterschrift/Stempel Auftraggeber Unterschrift/Stempel Auftragnehmer
 
-> Version 1.0 | 17.09.2024 | [legal@investigativedata.org](mailto:legal@investigativedata.org)
+> Version 1.0 | 17.09.2024 | [legal@dataresearchcenter.org](mailto:legal@dataresearchcenter.org)

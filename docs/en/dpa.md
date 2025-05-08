@@ -4,13 +4,13 @@ between
 
 *Client (to be inserted)*
 
-- hereinafter referred to as the Controller -
+\- hereinafter referred to as the Controller -
 
 and
 
-IDIO Daten Import Export GmbH, Gottschedstr. 4, 13357 Berlin
+IDIO Daten Import Export GmbH, Gottschedstr. 4, 13357 Berlin (doing business as _Data and Research Center - DARC_)
 
-- hereinafter referred to as the Processor -
+\- hereinafter referred to as the Processor -
 
 
 ## 1. Subject of the Agreement
@@ -104,7 +104,7 @@ The contractor is also required to provide the client with all necessary informa
 
 The contractor will communicate any changes in the company's data protection officer’s name and contact information or, if no officer is required, the name and contact details of the responsible body to the client.
 
-The Contractor undertakes to immediately inform the Client as soon as any authority, prosecutor's office, or private individual seeks access to the Client's data. Furthermore, the Contractor commits to requesting that all inquiries be submitted in electronic form and to forwarding such inquiries to the Client. Additionally, the Contractor agrees, to the extent legally possible, to disclose data only in collaboration with the Client. The Contractor shall document all inquiries and data transmissions in this context and make such documentation available to the Client. 
+The Contractor undertakes to immediately inform the Client as soon as any authority, prosecutor's office, or private individual seeks access to the Client's data. Furthermore, the Contractor commits to requesting that all inquiries be submitted in electronic form and to forwarding such inquiries to the Client. Additionally, the Contractor agrees, to the extent legally possible, to disclose data only in collaboration with the Client. The Contractor shall document all inquiries and data transmissions in this context and make such documentation available to the Client.
 
 ### 8.4 Cooperation and Support Obligations
 
@@ -202,4 +202,4 @@ Signature/Stamp Controller   Signature/Stamp Contractor
 - [Technical and organizational measurements (TOMS)](./toms.md)
 - [List of subprocessors](./subprocessors.md)
 
-> Version 1.1 | 2024-11-07 | [legal@investigativedata.org](mailto:legal@investigativedata.org)
+> Version 1.1 | 2024-11-07 | [legal@dataresearchcenter.org](mailto:legal@dataresearchcenter.org)

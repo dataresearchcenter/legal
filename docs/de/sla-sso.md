@@ -2,7 +2,7 @@
 
 ## Managed SSO
 
-Dieser Dienstleistungsvertrag gilt für den Betrieb einer Instanz der SSO-Plattform [Keycloak](https://keycloak.org/) zwischen Kund*innen und der [IDIO Daten Import Export GmbH](https://investigativedata.io), nachfolgend als „uns“ oder „wir“ bezeichnet.
+Dieser Dienstleistungsvertrag gilt für den Betrieb einer Instanz der SSO-Plattform [Keycloak](https://keycloak.org/) zwischen Kund*innen und der [IDIO Daten Import Export GmbH](https://dataresearchcenter.org) (im Geschäftsverkehr unter dem Namen _Data and Research Center - DARC_ tätig), nachfolgend als „uns“ oder „wir“ bezeichnet.
 
 Es gelten die [Allgemeinen Geschäftsbedingungen](./agb.md).
 
@@ -24,7 +24,7 @@ Es gelten die [Allgemeinen Geschäftsbedingungen](./agb.md).
 
 ## 2. Ansprechpartner und Support
 
-2.1. Alle Keycloak-Server beinhalten elektronischen Support während der angegebenen Supportzeiten. Die Kundin kann Supportanfragen per E-Mail an [support@investigativedata.org](mailto:support@investigativedata.org) stellen.
+2.1. Alle Keycloak-Server beinhalten elektronischen Support während der angegebenen Supportzeiten. Die Kundin kann Supportanfragen per E-Mail an [support@dataresearchcenter.org](mailto:support@dataresearchcenter.org) stellen.
 
 2.2. Im Allgemeinen sind Supportanfragen der Kundin nicht im Pauschalpreis enthalten. Nur Anfragen, die aufgrund von Systemausfalls oder anderen technischen Fehlern, die unsere Verantwortung sind, gestellt werden, sind im Preis enthalten. Supportanfragen, die nicht durch die bereitgestellte Dokumentation abgedeckt sind, aber für den reibungslosen Betrieb auf Kundinnenseite erforderlich sind und einen vertretbaren Aufwand nicht überschreiten, sind ebenfalls abgedeckt. Alle weiteren Supportleistungen werden nach vorheriger Absprache zu individuell vereinbarten Tarifen berechnet.
 
@@ -69,4 +69,4 @@ Alle Managed SSO Server verfügen über ein Remote-Backup, das die Konfiguration
 Die Kundin erhält einen oder mehrere Administratorzugänge, um Zugriffsrechte für Benutzer und Gruppen zu verwalten. Eine öffentliche Dokumentation wird von uns bereitgestellt. Die Kundin ist selbst für die Sicherheit dieser Konten verantwortlich.
 
 
-> Version 1.0 | 17.09.2024 | [legal@investigativedata.org](mailto:legal@investigativedata.org)
+> Version 1.0 | 17.09.2024 | [legal@dataresearchcenter.org](mailto:legal@dataresearchcenter.org)

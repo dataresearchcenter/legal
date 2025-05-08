@@ -47,15 +47,15 @@
         - Richtlinie „Clean desk“
         - Software- und Hardware-Richtlinien an Mitarbeitenden-Geräte
         - Verschlossener Stahlschrank
-        
+
 ### 1.3. Zugriffskontrolle
 - Technische Maßnahmen
     - Protokollierung von Zugriffen auf Anwendungen, konkret bei der Eingabe, Änderung und Löschung von Daten
 - Organisatorische Maßnahmen
-    - Einsatz Berechtigungskonzepte 
+    - Einsatz Berechtigungskonzepte
     - Minimale Anzahl an Administratoren
     - Verwaltung Benutzerrechte durch Administratoren
-        
+
 ### 1.4. Trennungskontrolle
 - Technische Maßnahmen
     - Trennung von Produktiv- und Testumgebung
@@ -64,7 +64,7 @@
 - Organisatorische Maßnahmen
     - Festlegung von Datenbankrechten
     - Steuerung über Berechtigungskonzept
-    
+
 
 ## 2. Integrität
 
@@ -81,7 +81,7 @@
 - Organisatorische Maßnahmen:
     - Interne Kommunikationsrichtlinien
     - Aktenschredder (mind. Stufe 3, cross cut)
-    
+
 
 ### 2.2. Eingabekontrolle
 - Technische Maßnahmen:
@@ -91,18 +91,18 @@
     - Übersicht, mit welchen Programmen welche Daten eingegeben, geändert oder gelöscht werden können
     - Nachvollziehbarkeit von Eingabe, Änderung und Löschung von Daten durch Individuelle Benutzernamen (nicht Benutzergruppen)
     - Vergabe von Rechten zur Eingabe, Änderung und Löschung von Daten auf Basis eines Berechtigungskonzepts
-    - Klare Zuständigkeiten für Löschungen 
+    - Klare Zuständigkeiten für Löschungen
 
 ## 3. Verfügbarkeit und Belastbarkeit
 
 ### 3.1. Verfügbarkeitskontrolle
-- Technische Maßnahmen: 
+- Technische Maßnahmen:
     - Tägliche Backups auf Datensystem eines anderen Hosters
     - Monitoring der Backup-Routinen
     - Sofortige Benachrichtigung bei fehlerhaftem/unkompletten Backup
     - Regelmäßige Tests zur Datenwiederherstellung und Protokollierung der Ergebnisse
-- Organisatorische Maßnahmen: 
-    - Notfallkonzept des Hosters 
+- Organisatorische Maßnahmen:
+    - Notfallkonzept des Hosters
 
 ## 4. Verfahren zur regelmäßigen Überprüfung, Bewertung und Evaluierung
 
@@ -130,4 +130,4 @@
 - Technische Maßnahmen
     - Es werden nicht mehr personenbezogene Daten erhoben, als für den jeweiligen Zweck erforderlich sind
 
-> Version 1.1 | 07.11.2024 | [legal@investigativedata.org](mailto:legal@investigativedata.org)
+> Version 1.1 | 07.11.2024 | [legal@dataresearchcenter.org](mailto:legal@dataresearchcenter.org)
