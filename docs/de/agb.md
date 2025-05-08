@@ -10,6 +10,9 @@
 
 1.4 Im Folgenden verwenden wir den Begriff "die Kundin" als vereinfachte Bezeichnung für Kund*innen. Damit sind sowohl juristische Personen als auch natürliche Personen gemeint. Das Gleiche gilt für den Begriff "Dritte".
 
+1.5 Die Kundin erlaub uns den Namen und das Logo ihrer Organisation auf unserer Website (z. B. unter „Kunden“ oder „Projekte“) und in unseren Social-Media-Kommunikationen verwenden. Sie können dieser Nutzung jederzeit – generell oder für einzelne Projekte – durch eine formlose Mitteilung an uns widersprechen.
+
+
 ## 2. Vertragsabschluss, -dauer und -kündigung
 
 2.1. Der Vertrag entsteht entweder, wenn Sie unser verbindliches Angebot annehmen oder wenn Sie uns einen direkten verbindlichen Auftrag erteilen, vorbehaltlich unserer Annahme gemäß den Bestimmungen in Punkt 2.4.
@@ -76,4 +79,4 @@ Vertraulichkeit und Geheimhaltung werden im Auftragsverarbeitungsvertrag nach GD
 
 9.3. Sollte eine Bestimmung unserer Allgemeinen Geschäftsbedingungen oder eines produktspezifischen Vertrags ganz oder teilweise unwirksam oder undurchführbar sein oder werden, hat dies keinen Einfluss auf die Gültigkeit der übrigen Bestimmungen. Gleiches gilt, wenn eine Lücke in diesem Vertrag festgestellt wird.
 
-> Version 1.0 | 23.10.2023 | [legal@dataresearchcenter.org](mailto:legal@dataresearchcenter.org)
+> Version 1.1 | 08.05.2025 | [legal@dataresearchcenter.org](mailto:legal@dataresearchcenter.org)

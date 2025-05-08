@@ -8,11 +8,9 @@ Diese Service-Level-Vereinbarung (SLA) gilt für die von uns, dem [Data and Rese
 
 1.1 Im Rahmen unserer Dienstleistungen stellen wir Ihnen Rechercheergebnisse, einschließlich Daten, Dokumenten und sonstigem Material (zusammenfassend „Informationen“), die wir von Dritten beziehen, auf Anfragebasis zur Verfügung.
 
-1.2 Sie erlauben uns den Namen und das Logo Ihrer Organisation auf unserer Website (z. B. unter „Kunden“ oder „Projekte“) und in unseren Social-Media-Kommunikationen verwenden. Sie können dieser Nutzung jederzeit – generell oder für einzelne Projekte – durch eine formlose Mitteilung an uns widersprechen.
+1.2 Wir liefern Ihnen üblicherweise innerhalb von vier Werktagen entweder eine vorläufige Ausarbeitung, Rückfragen oder Vorschläge zur Eingrenzung des Anfrageumfangs. Ein Werktag ist jeder Kalendertag, der nicht Samstag, Sonntag oder ein gesetzlicher Feiertag in Berlin, Deutschland ist.
 
-1.3 Wir liefern Ihnen üblicherweise innerhalb von vier Werktagen entweder eine vorläufige Ausarbeitung, Rückfragen oder Vorschläge zur Eingrenzung des Anfrageumfangs. Ein Werktag ist jeder Kalendertag, der nicht Samstag, Sonntag oder ein gesetzlicher Feiertag in Berlin, Deutschland ist.
-
-1.4 Wir stellen Ihnen unsere erbrachten Leistungen monatlich in Rechnung, basierend auf den geleisteten Stunden und auf die nächste volle Stunde aufgerundet, sofern nicht schriftlich etwas anderes vereinbart wurde. Sie können jederzeit eine aktuelle Übersicht über anfallende Gebühren und geleistete Stunden anfordern.
+1.3 Wir stellen Ihnen unsere erbrachten Leistungen monatlich in Rechnung, basierend auf den geleisteten Stunden und auf die nächste volle Stunde aufgerundet, sofern nicht schriftlich etwas anderes vereinbart wurde. Sie können jederzeit eine aktuelle Übersicht über anfallende Gebühren und geleistete Stunden anfordern.
 
 ## 2. Durch Sie bereitgestellte Informationen
 

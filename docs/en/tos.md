@@ -10,6 +10,8 @@
 
 1.4 Hereinafter, we use the term "the customer" as a simplified reference for customers, which includes both legal entities and natural persons. The same applies to the term "third parties."
 
+1.5 We may use your organization’s name and logo on our website (e.g., under “Clients” or “Projects”) and in social media communications. You may opt out of such use at any time, either globally or on a per-request basis, by notifying us.
+
 ## 2. Conclusion, Duration, and Termination of the Contract
 
 2.1. The contract is formed either when you accept our binding offer or when you directly issue a binding order to us, subject to our acceptance as per the provisions in point 2.4.
@@ -76,4 +78,4 @@ Confidentiality and secrecy are established in the Data Processing Agreement und
 
 9.3. If any provision of our General Terms and Conditions or a product-specific contract is or becomes invalid or unenforceable in whole or in part, it does not affect the validity of the remaining provisions. The same applies if a gap is found in this contract.
 
-> Version 1.0 | 2023-10-23 | [legal@dataresearchcenter.org](mailto:legal@dataresearchcenter.org)
+> Version 1.1 | 2025-05-08 | [legal@dataresearchcenter.org](mailto:legal@dataresearchcenter.org)
