@@ -18,7 +18,7 @@ This Service Agreement governs the package services provided by [IDIO Daten Impo
 
 2.3 In the event of any conflict, the specific provisions of the applicable SLA (Research or OpenAleph) shall prevail over this Starter Package Service Agreement.
 
-2.4 Our [Terms of Services](./tos.md) and our [Privacy Policy](./dataprivacy-io.md) apply.
+2.4 Our [Terms of Services](./tos.md), our [Data Processing Agreement](./dpa.md) and our [Privacy Policy](./dataprivacy-io.md) apply.
 
 2.5 In the event of any conflict between this Agreement and the foregoing agreements, the provisions of this Agreement — including but not limited to the termination periods in Section 1 — shall prevail.
 
@@ -42,4 +42,4 @@ This Service Agreement governs the package services provided by [IDIO Daten Impo
 
 4.2 Dates for training sessions and webinars will be scheduled separately in consultation with you.
 
-> Version 1.0 | 07.05.2025 | [legal@dataresearchcenter.org](mailto:legal@dataresearchcenter.org)
+> Version 1.1 | 08.05.2025 | [legal@dataresearchcenter.org](mailto:legal@dataresearchcenter.org)
