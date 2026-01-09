@@ -12,6 +12,7 @@ nav:
     - TOMS: en/toms.md
     - Subprocessors: en/subprocessors.md
     - NDA: en/nda.md
+    - Incident Notification: en/incident-notification.md
     - Data privacy (website): en/dataprivacy-io.md
   - deutsch:
     - AGB: de/agb.md
@@ -23,6 +24,7 @@ nav:
     - TOMS: de/toms.md
     - Unterauftragnehmer: de/unterauftragnehmer.md
     - NDA: de/nda.md
+    - IT-Vorfall-Benachrichtigung: de/vorfall-benachrichtigung.md
     - Datenschutz (website): de/datenschutzerklaerung-io.md
   - Contact:
     - › Email: mailto:legal@dataresearchcenter.org
