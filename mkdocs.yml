@@ -14,6 +14,7 @@ nav:
     - NDA: en/nda.md
     - Incident Notification: en/incident-notification.md
     - Data privacy (website): en/dataprivacy-io.md
+    - Data privacy (OpenAleph): en/dataprivacy-openaleph.md
   - deutsch:
     - AGB: de/agb.md
     - SLA DARC Pack: de/sla-pack.md
@@ -26,6 +27,7 @@ nav:
     - NDA: de/nda.md
     - IT-Vorfall-Benachrichtigung: de/vorfall-benachrichtigung.md
     - Datenschutz (website): de/datenschutzerklaerung-io.md
+    - Datenschutz (OpenAleph): de/datenschutzerklaerung-openaleph.md
   - Contact:
     - › Email: mailto:legal@dataresearchcenter.org
     - › dataresearchcenter.org: https://dataresearchcenter.org
