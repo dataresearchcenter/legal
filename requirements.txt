@@ -1,2 +1,2 @@
-mkdocs
-mkdocs-material
+zensical>=0.0.66
+putfs>=0.4.4

@@ -1,10 +1,10 @@
 all: install clean site publish
 
 publish: site
-	aws s3 --endpoint-url https://s3.investigativedata.org sync site s3://dataresearchcenter.org/legal
+	putfs sync --delete site putfs://static.darc.zone/dataresearchcenter.org/legal
 
 site:
-	mkdocs build
+	zensical build
 
 .PHONY: clean
 clean:
